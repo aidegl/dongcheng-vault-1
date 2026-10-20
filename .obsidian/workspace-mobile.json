@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "测试"
+              "title": "Home"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "测试.md",
+            "file": "Home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "测试.md",
+            "file": "Home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -150,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "测试.md",
+            "file": "Home.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -176,7 +176,7 @@
   },
   "active": "1b2cf2dd1ed7fbed",
   "lastOpenFiles": [
-    "测试2",
-    "测试.md"
+    "测试.md",
+    "测试2"
   ]
 }
